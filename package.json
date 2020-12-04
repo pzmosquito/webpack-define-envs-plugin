@@ -1,6 +1,6 @@
 {
   "name": "webpack-define-envs-plugin",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Embed environment variables as global constants for local js files.",
   "keywords": [
     "webpack",
@@ -29,6 +29,6 @@
   "homepage": "https://github.com/pzmosquito/webpack-define-envs-plugin#readme",
   "main": "index.js",
   "peerDependencies": {
-    "webpack": "^4.0.0"
+    "webpack": "^4.0.0 || ^5.0.0"
   }
 }
